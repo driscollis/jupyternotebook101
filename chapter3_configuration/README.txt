@@ -1,1 +1,0 @@
-This chapter is about configuring Jupyter Notebook, so there aren't any Notebook examples
