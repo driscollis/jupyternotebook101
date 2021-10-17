@@ -1,1 +1,0 @@
-Chapter 6 covers the installation and management of Jupyter Notebook extensions, so there are no actual Notebook examples for this chapter
