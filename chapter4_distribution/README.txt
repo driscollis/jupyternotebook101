@@ -1,1 +1,0 @@
-Chapter 4 is about distributing Jupyter Notebooks so there are no example files to show
